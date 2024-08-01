@@ -1,5 +1,5 @@
 Exp 1
-##AIM:
+## AIM:
 To install vs code, and write hello world program and calculator program.
 
 Theory:
