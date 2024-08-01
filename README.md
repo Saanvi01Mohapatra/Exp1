@@ -2,7 +2,7 @@ Exp 1
 ## AIM:
 To install vs code, and write hello world program and calculator program.
 
-Theory:
+## Theory:
 Visual Studio Code (VS Code) is a popular, open-source code editor developed by Microsoft. It’s known for its speed, simplicity, and extensibility, making it a go-to tool for many developers. 
 
 ## 1. Installing VS Code
