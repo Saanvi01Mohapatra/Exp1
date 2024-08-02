@@ -36,10 +36,13 @@ Click File > Save As... or use Ctrl+S, and save the file as sum_integers.py.
 #include<iostream>
 int main()
 {
-    std::cout<<"hello world";
+    std::cout<<"hello bro";
     return 0;
 }
 ```
+## Output:
+![Screenshot 2024-08-02 115213](https://github.com/user-attachments/assets/f489d631-1aa2-40f6-8390-7ab0c34675e3)
+
 ## CODE 2:
 ```
 //saanvi
@@ -60,3 +63,5 @@ int main()
     return 0;
 }
 ```
+## Output:
+![Screenshot 2024-08-02 115157](https://github.com/user-attachments/assets/8bc7af99-0aac-4e20-ade5-4656abc98f92)
